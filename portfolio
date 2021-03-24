@@ -17,9 +17,10 @@
         <div>
             <div>
               <h1>Professional Recent Experience</h1>
-              <p style="font-weight: bold" class="s">Family Eyecare Centre, Victoria, BC
-                <img src="pics/family.svg" style="float:left;width:160px;height:72px;">
-                <i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span></i></p>
+              <img src="pics/family.svg" style="float:left;width:160px;height:72px;">
+              <ul>
+                <p style="font-weight: bold" class="s">Family Eyecare Centre, Victoria, BC
+                <i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span></i></p></ul>
               <p style="font-weight: bold" class="s">RealFoto Media, Inc., Victoria, BC
                 <img src="pics/realfoto.jpeg" style="float:left;width:100px;height:100px;">
                 <i <span style="font-weight:normal">Digital Print Operator, Oct 2018 - March 2020 (1.5 years)</span><i/></p>
@@ -44,4 +45,5 @@
 								<ul class="col-sm-10 tab-major-item">
 									<h4>Freshworks </h4>
 									<h5><i>Full </i></h5>
+
 							</div>
