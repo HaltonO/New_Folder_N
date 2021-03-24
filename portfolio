@@ -10,23 +10,20 @@
             <ul>
               <li><a href="home">Home</a></li>
               <li><a href="about">About</a></li>
-              <li><a href="portfolio">Porfolio</a><li>
+              <li><a href="portfolio">Portfolio</a><li>
               <li><a href="contact">Contact</a></li>
             </ul>
         </nav>
         <div>
             <div>
-              <h2>Professional Experience</h2>
+              <h1>Professional Experience</h1>
                 <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC<br /><i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span><i/></p>
-                <p></p>
-
-
-            </div>
-            <div>
-                <p style="font-weight: bold">Smirkspace</p><p>A React web app created by a team of 6 including myself to help niche groups
-                  connect with each other through conversation. Contributed mainly to the front-end development of the app
-                using HTML, CSS and JavaScript.</p>
-                <a href="http://www.smirkspace.com">Smirkspace</a><br /><br />
+                <br />
+                <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC<br /><i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span><i/></p>
+                  <br />
+                  <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC<br /><i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span><i/></p>
+                    <br />
+                    <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC<br /><i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span><i/></p>
 
                 <br /><br /><br />
             </div>
