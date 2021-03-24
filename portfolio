@@ -44,23 +44,4 @@
 								<ul class="col-sm-10 tab-major-item">
 									<h4>Freshworks </h4>
 									<h5><i>Full </i></h5>
-									<p>Victoria, B.C.  (Mar 2019 - Present)</p>
-									<ul class="tab-major-item-info">
-										<li>Worked with a variety of technologies to deliver custom applications to clients on time and to specification</li>
-										<li>Lead backend API development of a student discount app for mobile and web</li>
-										<ul>
-											<li>Built using TypeScript running on the NestJS/ExpressJS platform with a PostgreSQL database</li>
-											<li>Deployed on Amazon’s Elastic Beanstalk leveraging RDS to host the database</li>
-										</ul>
-										<li>Contributed to backend API development of two Hootsuite integration apps for Google and Yext</li>
-										<ul>
-											<li>Both apps were written in TypeScript using the ExpressJS framework with a DynamoDB database</li>
-											<li>Deployed to Amazon’s Elastic Beanstalk and Lambda Serverless Computing Service</li>
-										</ul>
-										<li>
-											Collaborated with colleagues in all business departments, using Agile/Scrum methodology to define project requirements,
-											generate client-centred user stories and develop custom applications successfully from inception to final deployment
-										</li>
-									</ul>
-								</ul>
 							</div>
