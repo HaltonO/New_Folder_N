@@ -16,8 +16,8 @@
         </nav>
         <div>
             <div>
-              <h1>Professional Experience</h1>
-                <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC<br />Optical Dispenser, Jan 2021 – Present</p>
+              <h2>Professional Experience</h2>
+                <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC<br /><i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span><i/></p>
                 <p></p>
 
 
