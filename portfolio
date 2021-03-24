@@ -14,13 +14,13 @@
               <li><a href="contact">Contact</a></li>
             </ul>
         </nav> <br />
-        <div>
-            <div>
+        <div class="container2">
               <h1>Professional Recent Experience</h1>
-              <img src="pics/family.svg" style="float:left;width:160px;height:72px;">
-              <ul>
+              <div class="left">
+              <img src="pics/family.svg" style="float:left;width:160px;height:72px;"></div>
+              <div class="right">
                 <p style="font-weight: bold">Family Eyecare Centre, Victoria, BC <br />
-                <i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span></i></p></ul>
+                <i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span></i></p></div>
 
               <img src="pics/realfoto.jpeg" style="float:left;width:80px;height:80px;">
               <ul><p style="font-weight: bold">RealFoto Media, Inc., Victoria, BC <br />
@@ -43,9 +43,10 @@
     </body>
 </html>
 <div class='container2'>
-        <div class="left">
-            <img src='pics/family.svg' class='iconDetails'>
-        </div>
+    <div class="left">
+        <img src='pics/family.svg' class='iconDetails'>
+    </div>
+
     <div   class="right" >
     <h4>Facebook</h4>
     <div style="font-size:.7em;width:160px;float:left;">fine location, GPS, coarse location</div>
