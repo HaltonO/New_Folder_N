@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Projects</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+              <li><a href="home">Home</a></li>
+              <li><a href="about">About</a></li>
+              <li><a href="projects">Projects</a><li>
+              <li><a href="contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div>
+            <div>
+              <h1>Projects</h1>
+                <p style="font-weight: bold">AtUVic</p><p>A team of 5 members including myself worked on a project
+                of sketching a mobile app, from low & medium fidelity to higher fidelity. To prototype, software such
+                as Balsamiq, Sketch and Invision were used. The project included design aspects from evaluating usability, user
+                experience and user testing. The app was aimed to increase engagement of students in campus
+                through centralizing all events of the University of Victoria at one place.</p>
+                <a href="https://drive.google.com/open?id=0B1r1TFC-C8m_SWEzQUlqRFdJWkU">Lower Fidelity</a><br /><br />
+                <a href="https://invis.io/XGR6704FW73#/175684564_InitialPage">Higher Fidelity</a>
+            </div>
+            <div>
+                <p style="font-weight: bold">Smirkspace</p><p>A React web app created by a team of 6 including myself to help niche groups
+                  connect with each other through conversation. Contributed mainly to the front-end development of the app
+                using HTML, CSS and JavaScript.</p>
+                <a href="http://www.smirkspace.com">Smirkspace</a><br /><br />
+                <p style="font-weight: bold">Silencio</p><p>This is a small group project which invloves a client
+                chat and central server side implemented using Python. My role in this project was to lead, organize and delegate work. I was heavily invloved
+               also in writing SRS and design documents.</p>
+               <a href="https://github.com/Silencio0/Silencio">Silencio</a>
+
+                <br />
+                <p style="font-weight: bold">Project Management in the Public Sector</p><p>This is a 4 months class I took at the University of Victoria where I created a Project Charter for a proposed topic (Migrating Microsoft Access Database to Oracle Database 11g), produced a case study analysis report to investigate the federal pay system renewal project for the Government of Canada, and also understood the project management life cycle and the challenges of each phase.</p>
+                 <p>This is a sample <a href="Project_Charter.pdf">Project Charter.</a> </p>
+                 <p>This is a sample <a href="Case_Analysis.pdf">Case Analysis.</a> </p>
+
+               <p style="font-weight: bold">EDD-414</p><p>This is a class I took on Group Dynamics and Proccesses. Learned a variety of
+                 approaches to decision-making, leadership, group membership facilitation and awareness of self in group contexts.</p>
+              <p style="font-weight: bold">Graphic Manipulation</p><p>Some work of graphic modification and editing is <a href="http://haltono.daportfolio.com/">here</a></p>
+  <p style="font-weight: bold">Research & Documentation</p>
+            <p>This is a mini undergraduate A+ <a href="research.pdf">Research Paper.</a> </p>
+        <p>This is a sample technical documentation <a href="Assignment.pdf">(Domain Drive Design)</a></p>
+        <p>A group technical report where I was heavily involved in writing it <a href="Technical_Report.pdf">Chat Server</a></p>
+        <p>Labratory technical documentation <a href="IP.pdf">(Network Protocols)</a></p>
+            <p>Course related <a href="Reflection.pdf">Reflection paper.</a></p>
+  <p style="font-weight: bold">Older Hardware Projects <a href="hardware">HERE</a></p>
+                <br /><br /><br />
+            </div>
+        </div>
+        <footer>
+            <ul>
+                <li><a href="mailto:om.halton@gmail.com"><img src="pics/email.png" alt="Email"></a></li>
+                <li><a href="https://github.com/HaltonO"><img src="pics/4.png" alt="GitHub"></a></li>
+	            	<li><a href="https://www.linkedin.com/"><img src="pics/3.png" alt="Linkedin"></a></li>
+	            	<li><a href="https://goo.gl/photos/hxxExUHrx2HMCQZP7"><img src="pics/2.png" alt="Google Photos"></a></li>
+            </ul>
+        </footer>
+    </body>
+</html>
