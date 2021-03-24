@@ -23,13 +23,13 @@
                 <i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span></i></p></div>
 
               <div class="left">
-              <img src="pics/realfoto.jpeg" style="float:left;width:80px;height:80px;">
-              <ul><p style="font-weight: bold">RealFoto Media, Inc., Victoria, BC <br />
+              <img src="pics/realfoto.jpeg" style="float:left;width:80px;height:80px;"></div>
+              <div class="right"><p style="font-weight: bold">RealFoto Media, Inc., Victoria, BC <br />
                 <i <span style="font-weight:normal">Digital Print Operator, Oct 2018 - March 2020 (1.5 years)</span><i/></p></div>
 
-                  <div class="left"
-                <img src="pics/optics.svg" style="float:left;width:160px;height:72px;">
-                <ul><p style="font-weight: bold">Optiks International, Victoria, BC <br />
+                <div class="left">
+                <img src="pics/optics.svg" style="float:left;width:160px;height:72px;"></div>
+                <div class="right"><p style="font-weight: bold">Optiks International, Victoria, BC <br />
                 <i <span style="font-weight:normal">Eyewear Consultant, Feb 2015 – Oct 2018 (3 years and 8 months)</span><i/></p></div>
 
                 <br /><br /><br />
