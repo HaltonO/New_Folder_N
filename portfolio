@@ -15,7 +15,7 @@
             </ul>
         </nav> <br />
               <h2>Professional Recent Experience</h2>
-              <div class="container2">
+          <div class="container2">
               <div class="left">
               <img src="pics/family.svg" style="width:160px;height:72px;"></div>
               <div class="right">
@@ -31,8 +31,7 @@
                 <img src="pics/optics.svg" style="float:left;width:160px;height:72px;"></div>
                 <div class="right"><p style="font-weight: bold">Optiks International, Victoria, BC <br />
                 <i <span style="font-weight:normal">Eyewear Consultant, Feb 2015 – Oct 2018 (3 years and 8 months)</span></i></p></div>
-
-            </div>
+          </div>
         <div>
         <footer>
             <ul>
