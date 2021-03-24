@@ -17,11 +17,15 @@
         <div>
             <div>
               <h1>Professional Recent Experience</h1>
-              <p style="font-weight: bold" class="s">Family Eyecare Centre, Victoria, BC<br /><i <span style="font-weight:normal">>Optical Dispenser, Jan 2021 – Present</span></i></p>
-              <br />
-              <p style="font-weight: bold" class="s">RealFoto Media, Inc., Victoria, BC<br /><i <span style="font-weight:normal">Digital Print Operator, Oct 2018 - March 2020 (1.5 years)</span><i/></p>
-                <br />
-                <p style="font-weight: bold" class="s">Optiks International, Victoria, BC<br /><i <span style="font-weight:normal">Eyewear Consultant, Feb 2015 – Oct 2018 (3 years and 8 months)</span><i/></p>
+              <p style="font-weight: bold" class="s">Family Eyecare Centre, Victoria, BC<br />
+                <img src="pics/family.svg" style="float:left">
+                <i <span style="font-weight:normal">Optical Dispenser, Jan 2021 – Present</span></i></p>
+              <p style="font-weight: bold" class="s">RealFoto Media, Inc., Victoria, BC<br />
+                <img src="pics/realfoto.jpeg" style="float:left">
+                <i <span style="font-weight:normal">Digital Print Operator, Oct 2018 - March 2020 (1.5 years)</span><i/></p>
+                <p style="font-weight: bold" class="s">Optiks International, Victoria, BC<br />
+                  <img src="pics/family.svg" style="float:left">
+                  <i <span style="font-weight:normal">Eyewear Consultant, Feb 2015 – Oct 2018 (3 years and 8 months)</span><i/></p>
 
                 <br /><br /><br />
             </div>
