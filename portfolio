@@ -33,7 +33,7 @@
                 <i <span style="font-weight:normal">Eyewear Consultant, Feb 2015 – Oct 2018 (3 years and 8 months)</span></i></p></div>
           </div>
         <div>
-        <footer>
+        <footer class="footer">
             <ul>
               <li><a href="mailto:no.marshalle@gmail.com"><img src="pics/email.png" alt="Email"></a></li>
               <li><a href="https://www.linkedin.com/"><img src="pics/3.png" alt="Linkedin"></a></li>
