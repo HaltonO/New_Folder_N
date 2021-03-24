@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    min-height: 100px;
 }
 nav ul, footer ul {
     font-family:'Helvetica';
@@ -37,7 +36,6 @@ footer {
     clear: both;
     margin-top: -200px;
 }
-
 .container2 {
     width:270px;
     height:auto;
