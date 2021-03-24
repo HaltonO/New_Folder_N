@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Projects</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+    <body>
+        <nav>
+            <ul>
+              <li><a href="home">Home</a></li>
+              <li><a href="about">About</a></li>
+              <li><a href="portfolio">Porfolio</a><li>
+              <li><a href="contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div>
+            <div>
+              <h1>Professional Experience</h1>
+                <p style="font-weight: bold">AtUVic</p><p>A team of 5 members including myself worked on a project
+                of sketching a mobile app, from low & medium fidelity to higher fidelity. To prototype, software such
+                as Balsamiq, Sketch and Invision were used. The project included design aspects from evaluating usability, user
+                experience and user testing. The app was aimed to increase engagement of students in campus
+                through centralizing all events of the University of Victoria at one place.</p>
+                <a href="https://drive.google.com/open?id=0B1r1TFC-C8m_SWEzQUlqRFdJWkU">Lower Fidelity</a><br /><br />
+                <a href="https://invis.io/XGR6704FW73#/175684564_InitialPage">Higher Fidelity</a>
+            </div>
+            <div>
+                <p style="font-weight: bold">Smirkspace</p><p>A React web app created by a team of 6 including myself to help niche groups
+                  connect with each other through conversation. Contributed mainly to the front-end development of the app
+                using HTML, CSS and JavaScript.</p>
+                <a href="http://www.smirkspace.com">Smirkspace</a><br /><br />
+              
+                <br /><br /><br />
+            </div>
+        </div>
+        <footer>
+            <ul>
+              <li><a href="mailto:no.marshalle@gmail.com"><img src="pics/email.png" alt="Email"></a></li>
+              <li><a href="https://www.linkedin.com/"><img src="pics/3.png" alt="Linkedin"></a></li>
+              <li><a href="https://flic.kr/s/aHsmV1J3pd"><img src="pics/2.png" alt="Flickr"></a></li>
+            </ul>
+        </footer>
+    </body>
+</html>

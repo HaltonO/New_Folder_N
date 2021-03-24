@@ -10,22 +10,21 @@
             <ul>
               <li><a href="home">Home</a></li>
               <li><a href="about">About</a></li>
-              <li><a href="projects">Projects</a><li>
+              <li><a href="portfolio">portfolio</a><li>
               <li><a href="contact">Contact</a></li>
             </ul>
         </nav>
         <div>
             <div>
               <h1>Contact Info</h1>
-                <p>For CV and more info, please contact me through <a href="mailto:om.halton@gmail.com">email</a>. </p>
+                <p>For CV and more info, please contact me through <a href="mailto:no.marshalle@gmail.com">email</a>. </p>
             </div>
         </div>
         <footer>
             <ul>
-                <li><a href="mailto:om.halton@gmail.com"><img src="pics/email.png" alt="Email"></a></li>
-                <li><a href="https://github.com/HaltonO"><img src="pics/4.png" alt="GitHub"></a></li>
-	             	<li><a href="https://www.linkedin.com/"><img src="pics/3.png" alt="Linkedin"></a></li>
-	             	<li><a href="https://goo.gl/photos/hxxExUHrx2HMCQZP7"><img src="pics/2.png" alt="Google Photos"></a></li>
+              <li><a href="mailto:no.marshalle@gmail.com"><img src="pics/email.png" alt="Email"></a></li>
+              <li><a href="https://www.linkedin.com/"><img src="pics/3.png" alt="Linkedin"></a></li>
+              <li><a href="https://flic.kr/s/aHsmV1J3pd"><img src="pics/2.png" alt="Flickr"></a></li>
             </ul>
         </footer>
     </body>
