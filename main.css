@@ -1,7 +1,12 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.spacer {
+    flex: 1;
 }
 nav ul, footer ul {
     font-family:'Helvetica';
@@ -30,12 +35,9 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-    position: fixed;
-    bottom: 0px;
-
+.footer {
+    height: 50px;
+    background-color: red;
 }
 .container2 {
     width:270px;
