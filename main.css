@@ -1,11 +1,6 @@
 body {
     margin: 60px auto;
-  
-    min-height: 100vh;
-}
-
-.spacer {
-    flex: 1;
+    width: 70%;
 }
 nav ul, footer ul {
     font-family:'Helvetica';
@@ -37,6 +32,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    
 }
 .container2 {
     width:270px;
