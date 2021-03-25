@@ -6,19 +6,18 @@
         <link rel="stylesheet" type="text/css" href="main.css">
     </head>
     <body>
-        
+        <nav>
             <ul>
                 <li><a href="home">Home</a></li>
                 <li><a href="about">About</a></li>
-		            <li><a href="portfolio">Portfolio</a><li>
+		            <li><a href="portfolio">Portfolio</a></li>
                 <li><a href="contact">Contact</a></li>
             </ul>
-
+        </nav>
         <div>
             <div>
               <h1>About me</h1>
-                <p>I am a graphic design graduate from the Pacific Design Academy in Victoria, BC, Canada with some years of experience in graphic and web design, optical care, sales, hospitality and customer service
-                  . I am a very ambitious person, self motivated with initiative and eagerness to learn constantly.
+                <p>I am a graphic design graduate from the Pacific Design Academy in Victoria, BC, Canada with some years of experience in graphic and web design, optical care, sales, hospitality and customer service. I am a very ambitious person, self motivated with initiative and eagerness to learn constantly.
               </p><p>In my free time, I enjoy reading a variety of topics while sipping some tea. I also enjoy listening to music, dancing, photography, martial arts, hiking and
              socializing with family and friends. </p>
             </div>
