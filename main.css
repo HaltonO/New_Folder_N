@@ -5,9 +5,7 @@ body {
     min-height: 100vh;
 }
 
-.spacer {
-    flex: 1;
-}
+
 nav ul, footer ul {
     font-family:'Helvetica';
     padding: 0px;
